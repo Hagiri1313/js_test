@@ -1,2 +1,3 @@
-console.log('kenny creates' +
-    '')
+console.log('kenny creates')
+
+

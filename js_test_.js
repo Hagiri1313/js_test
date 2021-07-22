@@ -1,10 +1,25 @@
-const day= prompt("enter your day");
-if (day && day <= 10){
-    console.log("pd");
-}else if (day && day >= 11 && day <= 21) {
-    console.log ("fd");
+ //найдите суму чисел от 1 до 100 исользуя фор вайл  ду вайл
 
-}else if (day && day >= 21 && day <= 31) {
-    console.log("td");
-}
+// let sumf = 0;
+// for (i = 1; i <= 100; i++){
+//  sumf += i;
+//
+// }
+// console.log(sumf)
+
+// let sumw = 0;
+// let i = 0
+// while ( i < 100) {
+//  i++
+//  sumw += i
+ // }
+ //console.log(sumw)
+
+// let sumd = 0;
+// let i = 0;
+ //do {
+  //   i++
+  //   sumd += i;
+ //}while (i <100)
+// console.log(sumd)
 
